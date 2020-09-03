@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-express-mongodb",
+  "version": "1.0.0",
+  "description": "Este es un repositorio de prueba. Se estaran utilizando las siguientes tecnologias: \tNodeJS \tExpress \tMongoDB \tMongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafael13es/NodeJS-Express-MongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafael13es/NodeJS-Express-MongoDB/issues"
+  },
+  "homepage": "https://github.com/Rafael13es/NodeJS-Express-MongoDB#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.2",
+    "nodemon": "^2.0.4"
+  }
+}
